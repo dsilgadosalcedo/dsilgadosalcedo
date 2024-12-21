@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
   <diagram name="Page-1" id="nyXCwH63GiMu22MKU93I">
-    <mxGraphModel>
+    <mxGraphModel dx="737" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="51YYP6L-br1FazsDLqxQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-1" target="51YYP6L-br1FazsDLqxQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-1" target="51YYP6L-br1FazsDLqxQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DBMS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-2" target="51YYP6L-br1FazsDLqxQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Database&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-4" target="51YYP6L-br1FazsDLqxQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-4" target="51YYP6L-br1FazsDLqxQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Database&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Objects&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#A9C4EB;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="51YYP6L-br1FazsDLqxQ-8" target="51YYP6L-br1FazsDLqxQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Schema&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#A9C4EB;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Schema&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=#7EA6E0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YYP6L-br1FazsDLqxQ-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tables&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Views&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#A9C4EB;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
