@@ -6,7 +6,6 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 - 🤖 Experimenting with AI integration to enhance my apps
 - 🔭 Working on a UI Kit for my company
 - 🌱 Learning Node.js, databases, and Python
-- ⚡ Fun fact: My grandfather composed the official song for the Fiestas del 20 de Enero in Sincelejo 🎶
 ---
 
 ### 📊 GitHub Stats  
