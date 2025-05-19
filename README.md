@@ -38,7 +38,7 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 ---
 
 ### 💡 Fun Project Ideas
-- 🌱 Creating a **smart agriculture app** for farmers in Colombia
+- 🌱 Creating a **smart agriculture app** for farmers
 - 🛠 Automating frontend workflows with **AI & Chatbots**
 
 ---
