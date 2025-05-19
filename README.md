@@ -1,11 +1,10 @@
 ## Hello hello 👋
 
-I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate software developer from Colombia. I specialize in frontend development, particularly with **React, Next.js, TypeScript**, and other modern web technologies. 
+I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate software developer from Colombia. I specialize in web development, particularly with **React, Next.js, TypeScript**, and other modern web technologies. 
  
-- [ ] 📱 Building an app for prospecting, outreach, and contact management
-- [ ] 🤖 Experimenting with AI integration to enhance my apps
-- [ ] 🔭 Working on a UI Kit for my company
-- [ ] 🌱 Learning Node.js, databases, and Python
+- [ ] 🤖 Experimenting with AI integration
+- [ ] 🔭 Working on an automate e-commerce creator
+- [ ] 🌱 Learning Apps development, Node.js, databases, and Python
 ---
 
 ### 📊 GitHub Stats  
