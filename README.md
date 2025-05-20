@@ -10,8 +10,6 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 ### 📊 GitHub Stats  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsilgadosalcedo&theme=oldie&no-bg=true&margin-w=4&margin-h=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsilgadosalcedo&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilgadosalcedo&layout=compact&theme=radical)  
 
 
