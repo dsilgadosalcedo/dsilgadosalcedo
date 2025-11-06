@@ -7,7 +7,6 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 
 ## 🚀 Tech Stack
 
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,11 +16,9 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -31,12 +28,10 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
 
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Others
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -44,10 +39,10 @@ I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 💡 What Drives Me
+- 📈 **Process Optimization**: Creating tools that automate workflows and improve efficiency
 - 🌱 **Sustainable Technology**: Combining my environmental engineering background with modern tech solutions
 - 🤖 **AI Integration**: Exploring the intersection of artificial intelligence and web development
 - 👥 **Team Leadership**: Mentoring developers and fostering collaborative environments
-- 📈 **Process Optimization**: Creating tools that automate workflows and improve efficiency
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsilgadosalcedo/)
