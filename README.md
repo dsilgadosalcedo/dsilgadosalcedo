@@ -1,54 +1,67 @@
-## Hello hello 👋
+## Hey, I'm David 👋
 
-I'm David ([@dsilgadosalcedo](https://github.com/dsilgadosalcedo)), a passionate software developer from Colombia. I specialize in web development, particularly with **React, Next.js, TypeScript**, and other modern web technologies.
+I’m a developer from Colombia building modern digital products. I work across design, frontend, backend, and infrastructure. Turning ideas into production-ready experiences.
 
-### 📊 GitHub Stats  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsilgadosalcedo&theme=oldie&no-bg=true&margin-w=4&margin-h=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)  
+I care about shipping useful products quickly, with thoughtful UX, maintainable systems, fast developer workflows & pragmatic architecture.
 
-## 🚀 Tech Stack
+Currently exploring:
+* AI integrations & agent workflows
+* developer tooling
+* local-first & realtime experiences
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+### 📫 Let's Connect
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dsilgadosalcedo)
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-008080?style=for-the-badge&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 💡 What Drives Me
-- 📈 **Process Optimization**: Creating tools that automate workflows and improve efficiency
-- 🌱 **Sustainable Technology**: Combining my environmental engineering background with modern tech solutions
-- 🤖 **AI Integration**: Exploring the intersection of artificial intelligence and web development
-- 👥 **Team Leadership**: Mentoring developers and fostering collaborative environments
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsilgadosalcedo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsilgadosalcedo@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573158599817)
+*"In a world of stochastic parrots, the only thing that matters is the human touch"*
 
 ---
 
-*"Building the future, one commit at a time"* 🚀
+
+
+
+## A few minor things
+
+### GitHub Stats  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsilgadosalcedo&theme=oldie&no-bg=true&margin-w=4&margin-h=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)  
+
+### Tech Stack
+
+#### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Expo](https://img.shields.io/badge/Expo-0F172A?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Storybook](https://img.shields.io/badge/Storybook-0F172A?style=for-the-badge&logo=storybook&logoColor=FF4785)
+
+#### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![GraphQL](https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=E10098)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-0F172A?style=for-the-badge&logoColor=C5F74F)
+
+#### AI & Tooling
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0F172A?style=for-the-badge&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-0F172A?style=for-the-badge&logo=turborepo&logoColor=EF4444)
+![pnpm](https://img.shields.io/badge/pnpm-0F172A?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+#### Dev Experience & Observability
+
+![Sentry](https://img.shields.io/badge/Sentry-0F172A?style=for-the-badge&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-0F172A?style=for-the-badge&logo=posthog&logoColor=F54E00)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+#### Currently Exploring
+
+![Electron](https://img.shields.io/badge/Electron-0F172A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Astro](https://img.shields.io/badge/Astro-0F172A?style=for-the-badge&logo=astro&logoColor=FF5D01)
